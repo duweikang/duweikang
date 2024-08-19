@@ -9,5 +9,5 @@
 - 😄 一切皆有可能·各位山顶见。
 
 
-[![Duweikang](https://github-readme-stats.vercel.app/api?username=duweikang "![Duweikang's github stats")](https://github.com/duweikang)
+[![trophy](https://github-profile-trophy.vercel.app/?username=duweikang)](https://github.com/ryo-ma/github-profile-trophy)
 
