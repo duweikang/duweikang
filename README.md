@@ -9,5 +9,5 @@
 - 😄 一切皆有可能·各位山顶见。
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duweikang "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duweikang "![Anurag's github stats")](https://github.com/duweikang)
 
