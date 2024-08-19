@@ -9,6 +9,3 @@
 - 😄 一切皆有可能·各位山顶见。
 
   
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=duweikang&show_icons=true&count_private=true)
-
